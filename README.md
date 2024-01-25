@@ -1,6 +1,6 @@
 
 <h1 aling="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font="DM+Sans"&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Farid+Bustos!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font="DMSans"&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Farid+Bustos!;" />
 </h1>
 
 
