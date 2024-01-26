@@ -1,4 +1,4 @@
-<h1 >Presentacion</h1>
+<img src="" />
 
 <h1 aling="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=40&duration=4000&pause=1000&color=78A3D4&random=false&width=500&height=80&lines=%C2%A1Hola!+%F0%9F%91%8B;Soy+Farid+Bustos." alt="Typing SVG" /></a>
