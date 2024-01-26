@@ -8,7 +8,7 @@
 
 <h1>Sobre mi</h1>
 
-Soy Farid Bustos, un apasionado desarrollador de software con sede en 🇨🇴 Colombia. Mi viaje en el mundo de la programación comenzó cuando me empecé a interesar por el cómo estaban hechas las páginas web y qué lógica había detrás de eso.
+Soy un apasionado desarrollador de software con sede en 🇨🇴 Colombia. Mi viaje en el mundo de la programación comenzó cuando me empecé a interesar por el cómo estaban hechas las páginas web y qué lógica había detrás de eso.
 
 Fuera del código, disfruto participando en diversas actividades como jugar al ajedrez ♟️, explorar nuevas áreas y enfoques en el mundo del desarrollo de software 🌐, así como llevar a cabo diversas actividades físicas 🏋️. 
 
