@@ -1,4 +1,5 @@
-<img src="" />
+
+![222](https://github.com/FaridBustos/FaridBustos/assets/125108687/aa403001-81ef-4320-b6c4-59be1b5b6a01)
 
 <h1 aling="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=40&duration=4000&pause=1000&color=78A3D4&random=false&width=500&height=80&lines=%C2%A1Hola!+%F0%9F%91%8B;Soy+Farid+Bustos." alt="Typing SVG" /></a>
