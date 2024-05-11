@@ -6,16 +6,15 @@
 </h1>
 
 
-<h1 align="center">Hola 👋, soy Farid Bustos.</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Colombia.</h3>
 
 - 🔭 Actualmente estoy trabajando en **una aplicación para la gestión de reservas.**
 
-- 🌱 Actualmente estoy aprendiendo **DevOps para desplegar mis aplicaciones.**
+- 🌱 Me encuentro aprendiendo **DevOps para desplegar mis aplicaciones con React.**
 
-- 👯 Estoy buscando colaborar en **proyectos relacionados al area de frontend con react.**
+- 👯 Estoy buscando colaborar en **proyectos relacionados al area de frontend con React.**
 
-- 💬 Pregúntame acerca de **React**
+- 💬 Pregúntame acerca de **cualquier tema relacionado al desarrollo frontend.**
 
 - 📫 Contáctame en **faridbustoc@gmail.com**
 
